@@ -1,0 +1,17 @@
+.navbar-bg{
+    background-color: skyblue;
+}
+.navbar-text{
+    color:white !important;
+    font: 20px bold;
+}
+.brand{
+    background-color: white;
+    border-radius: 10px;
+    color: rgb(230, 52, 156) !important;
+    font: 25px bolder;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top:10px;
+}
